@@ -27,7 +27,7 @@ describe('my suite', () =>
     })
 
     // To group a set of related tests
-    context(() =>
+    context('Context Block', () =>
     {
         it('Test 1', () => 
         {
